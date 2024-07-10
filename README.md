@@ -32,7 +32,7 @@ You can interact with the report here (Report Link- https://tinyurl.com/hospital
 ![](dashboard.png)
 
 ## 1.	Total Patients:
-o	There are 8,400 patients across 9 different departments.
+o	There are 8,400 patients across 8 different departments.
 o	These numbers are essential for resource allocation and capacity planning.
 
 ## 2.	Average Patient Wait Time:
@@ -40,7 +40,7 @@ o	The average patient wait time remains at 35 minutes.
 o	Addressing this metric is critical for improving patient experience.
 
 ## 3.	Patient Demographics:
-o	Patients were represented from 8 different races.
+o	Patients were represented from 7 different races.
 o	Understanding the diversity of patients helps tailor care and services.
 
 ## 4.	Patient Average Age:
